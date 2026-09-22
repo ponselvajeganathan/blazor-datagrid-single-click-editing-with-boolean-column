@@ -2,7 +2,7 @@
 
 ## Overview
 
-This sample demonstrates how to perform single-click editing of a Boolean column in the Syncfusion Blazor DataGrid. Instead of entering the grid's standard edit mode, the sample renders an `SfCheckBox` component inside a Grid column template, allowing users to update Boolean values directly with a single click. This approach provides a faster editing experience for status, flag, and selection-based fields while keeping the grid data source synchronized with user interactions.
+This sample demonstrates how to perform single-click editing of a Boolean column in the Syncfusion [Blazor DataGrid](https://www.syncfusion.com/blazor-components/blazor-datagrid). Instead of entering the grid's standard edit mode, the sample renders an `SfCheckBox` component inside a Grid column template, allowing users to update Boolean values directly with a single click. This approach provides a faster editing experience for status, flag, and selection-based fields while keeping the grid data source synchronized with user interactions.
 
 ## Key Features
 
